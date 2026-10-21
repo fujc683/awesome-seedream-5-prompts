@@ -35,7 +35,7 @@ Seedream 5.0 is known for cinematic lighting and rich color grading. This collec
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-20
+- Last updated: 2026-10-21
 - apimart.ai/model/seedream-5-0-pro
 
 ## Browse by Category
