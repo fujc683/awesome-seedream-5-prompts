@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Seedream 5.0 on APIMart · apimart.ai/model/seedream-5-0-pro](https://gola.apimart.ai/k-1mTS6R)**
+
+`https://gola.apimart.ai/k-1mTS6R`
 [💰 Pricing](https://gola.apimart.ai/k-iNxbho) · [🔑 Get an API key](https://gola.apimart.ai/k-X9rqRf)
 
 
@@ -35,7 +37,7 @@ Seedream 5.0 is known for cinematic lighting and rich color grading. This collec
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-20
 - apimart.ai/model/seedream-5-0-pro
 
 ## Browse by Category

@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 在 APIMart 上用 Seedream 5.0 生成 · apimart.ai/model/seedream-5-0-pro](https://gola.apimart.ai/k-1mTS6R)**
+
+`https://gola.apimart.ai/k-1mTS6R`
 [💰 Pricing](https://gola.apimart.ai/k-iNxbho) · [🔑 Get an API key](https://gola.apimart.ai/k-X9rqRf)
 
 
